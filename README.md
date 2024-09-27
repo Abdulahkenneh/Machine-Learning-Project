@@ -57,7 +57,7 @@ We welcome contributions from the **open-source** community. Whether you’re im
 - **<a href='https://github.com/Abdulahkenneh'>Abdualah Mamadee Kenneh</a>** – *Project Lead & Developer*
 -  **<a href='https://github.com/RudraSingh08'>Rudra Singh</a>** *Image Processing Specialist*
 - **<a href='https://github.com/adityaiitian123'>Aditya Kumar Singh</a>** *GANs Model Development*
-- **<a href='https://github.com/ajaybe-ops'>Ajay Krishna M</a>***Real-Time Video Processing Specialist*
+- **<a href='https://github.com/ajaybe-ops'>Ajay Krishna M </a>**  *Real-Time Video Processing Specialist*
 
 > If you'd like to contribute, please include your GitHub handle in your pull request for acknowledgment in this section.
 
