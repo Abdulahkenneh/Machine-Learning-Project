@@ -27,6 +27,10 @@ The solution employs **GANs** and other deep learning models to perform facial r
 - **Matplotlib & Seaborn**: Visualization libraries used to analyze and compare results.
 - **OpenAI**: For leveraging pre-trained models and advanced generative techniques in the project.
 
+## **Flow Chart**
+![Flow Chart](path/to/your/flowchart.png)
+
+
 ## **Challenges Overcome**
 - **Low-Light Footage**: Improved image quality from poorly lit scenes, enabling clearer facial identification.
 - **Motion Blur**: Minimized blur from moving subjects to enhance facial clarity.
