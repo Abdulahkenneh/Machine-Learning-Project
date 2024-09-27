@@ -31,19 +31,6 @@ The solution employs **GANs** and other deep learning models to perform facial r
 ![Flow Chart](path/to/your/flowchart.png)
 
 
-graph TD;
-    A[Start] --> B[Input Low-Quality CCTV Footage]
-    B --> C[Preprocess Video Frames]
-    C --> D[Extract Frames from Video]
-    D --> E[Apply Image Enhancement Techniques]
-    E --> F[Use GANs for Facial Reconstruction]
-    F --> G[Evaluate Quality of Reconstructed Faces]
-    G --> H[Post-Processing & Refinement]
-    H --> I[Output Enhanced Facial Images]
-    I --> J[Integrate with Facial Recognition Systems]
-    J --> K[End]
-
-
 
 ## **Challenges Overcome**
 - **Low-Light Footage**: Improved image quality from poorly lit scenes, enabling clearer facial identification.
@@ -68,14 +55,13 @@ We welcome contributions from the **open-source** community. Whether you’re im
 
 ## **Contributors**
 - **<a href='https://github.com/Abdulahkenneh'>Abdualah Mamadee Kenneh</a>** – *Project Lead & Developer*
-- **[Contributor Name]** – *Image Processing Specialist*
-- **[Contributor Name]** – *GANs Model Development*
-- **[Contributor Name]** – *Real-Time Video Processing Specialist*
+-  **<a href='https://github.com/RudraSingh08'>Rudra Singh</a>** *Image Processing Specialist*
+- **<a href='https://github.com/adityaiitian123'>Aditya Kumar Singh</a>** *GANs Model Development*
+- **<a href='https://github.com/ajaybe-ops'>Ajay Krishna M</a>***Real-Time Video Processing Specialist*
 
 > If you'd like to contribute, please include your GitHub handle in your pull request for acknowledgment in this section.
 
 - **Facial Recognition Integration**: Future development will involve integrating enhanced facial images into recognition systems for identity verification.
-- **3D Facial Reconstruction**: Extending the model to generate 3D representations of faces.
 - **Real-Time Video Stream Processing**: Implementing capabilities to handle live video streams for surveillance purposes.
 
 ## How to Contribute
