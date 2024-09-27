@@ -31,6 +31,20 @@ The solution employs **GANs** and other deep learning models to perform facial r
 ![Flow Chart](path/to/your/flowchart.png)
 
 
+graph TD;
+    A[Start] --> B[Input Low-Quality CCTV Footage]
+    B --> C[Preprocess Video Frames]
+    C --> D[Extract Frames from Video]
+    D --> E[Apply Image Enhancement Techniques]
+    E --> F[Use GANs for Facial Reconstruction]
+    F --> G[Evaluate Quality of Reconstructed Faces]
+    G --> H[Post-Processing & Refinement]
+    H --> I[Output Enhanced Facial Images]
+    I --> J[Integrate with Facial Recognition Systems]
+    J --> K[End]
+
+
+
 ## **Challenges Overcome**
 - **Low-Light Footage**: Improved image quality from poorly lit scenes, enabling clearer facial identification.
 - **Motion Blur**: Minimized blur from moving subjects to enhance facial clarity.
